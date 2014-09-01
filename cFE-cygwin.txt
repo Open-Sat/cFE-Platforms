@@ -1,0 +1,5 @@
+cFE-cygwin.zip contains a cFE 6.3 port to the 32-bit cygwin platform.  Cygwin is nolonger supported by the cFE
+and this port has not been offically verified.  However cygwin provdes a convenient easy-to-use platform for 
+Windows desktop protyping. Some organizations restrict the usage of virtual machines and cygwin provides an 
+alternative in these situations.
+
